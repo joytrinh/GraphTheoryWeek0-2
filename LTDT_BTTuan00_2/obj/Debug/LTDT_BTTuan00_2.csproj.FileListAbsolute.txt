@@ -1,0 +1,7 @@
+E:\STUDY\IT\Semester 3\T3. Graph Theory\Projects\LTDT_BTTuan00_2\LTDT_BTTuan00_2\bin\Debug\LTDT_BTTuan00_2.exe.config
+E:\STUDY\IT\Semester 3\T3. Graph Theory\Projects\LTDT_BTTuan00_2\LTDT_BTTuan00_2\bin\Debug\LTDT_BTTuan00_2.exe
+E:\STUDY\IT\Semester 3\T3. Graph Theory\Projects\LTDT_BTTuan00_2\LTDT_BTTuan00_2\bin\Debug\LTDT_BTTuan00_2.pdb
+E:\STUDY\IT\Semester 3\T3. Graph Theory\Projects\LTDT_BTTuan00_2\LTDT_BTTuan00_2\obj\Debug\LTDT_BTTuan00_2.csprojAssemblyReference.cache
+E:\STUDY\IT\Semester 3\T3. Graph Theory\Projects\LTDT_BTTuan00_2\LTDT_BTTuan00_2\obj\Debug\LTDT_BTTuan00_2.csproj.CoreCompileInputs.cache
+E:\STUDY\IT\Semester 3\T3. Graph Theory\Projects\LTDT_BTTuan00_2\LTDT_BTTuan00_2\obj\Debug\LTDT_BTTuan00_2.exe
+E:\STUDY\IT\Semester 3\T3. Graph Theory\Projects\LTDT_BTTuan00_2\LTDT_BTTuan00_2\obj\Debug\LTDT_BTTuan00_2.pdb

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace LTDT_BTTuan00_2
 {
@@ -15,7 +16,7 @@ namespace LTDT_BTTuan00_2
             get { return _numberOfVertexes; }
             set
             {
-                if (value >= 0)
+                if (value > 2)
                     _numberOfVertexes = value;
             }
         }
