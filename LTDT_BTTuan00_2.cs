@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -65,6 +65,27 @@ namespace LTDT_BTTuan00_2
                 Console.WriteLine("The file could not be read: ");
                 Console.WriteLine(e.Message);
             }
+        }
+    }
+
+	class GRAPH
+    {
+        private int _numberOfVertexes;
+        private int[,] _matrix;
+
+        public int numberOfVertexes {
+            get { return _numberOfVertexes; }
+            set
+            {
+                if (value > 2)
+                    _numberOfVertexes = value;
+            }
+        }
+
+        public int[,] matrix
+        {
+            get { return _matrix; }
+            set { _matrix = value; }
         }
     }
 }
